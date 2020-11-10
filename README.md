@@ -13,17 +13,11 @@ Scancess用来处理USB扫描枪获取的信息，并不是无焦点获取，所
   
 TODO:  
 1.字段（SSID、mac）合法性检查  
-2.重复检查  
-3.显示结果  
 4.禁止手动输入。输入异常处理。  
 5.文件保存路径选择、命名。  
 6.扫描数量统计。  
 7.每24个自动写到新文件。  
-8.关于-个人版权说明。  
 9.界面美化。  
-10.选项卡  
-11.excel表中的实时数据。  
-12.更改图标  
   
 V0.1  
-![image](https://github.com/heyzzk/Scancess/blob/main/Scancess/debug/release/v0.1-20201106/ui.png)  
+![image](https://github.com/heyzzk/Scancess/blob/main/Scancess/debug/release/v0.5-20201110/ui.png)  
